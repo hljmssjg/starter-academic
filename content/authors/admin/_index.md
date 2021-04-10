@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: '孙健耕/Jiangeng Sun'
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: '人工智能专业硕士在读/Master's program in artificial intelligence'
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: '于默奥大学/Umeå University'
+  url: https://www.umu.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: '我喜欢在机器学习，深度学习，无人驾驶等领域探索学习/My research interests include Machine learning, deep learning, autopilot'
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- '人工智能/Artificial Intelligence'
+- '计算机视觉/Computer vision'
+- ''
 
 # Education to show in About widget
 education:
