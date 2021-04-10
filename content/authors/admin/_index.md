@@ -17,7 +17,7 @@ organizations:
 bio: '我喜欢在机器学习，深度学习，无人驾驶等领域探索学习'
 
 # Interests to show in About widget
-'爱好':
+interests:
 - '人工智能'
 - '计算机视觉'
 - '羽毛球'
