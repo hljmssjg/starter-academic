@@ -1,12 +1,12 @@
 ---
 # Display name
-title: '孙健耕/Jiangeng Sun'
+title: '孙健耕'
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: '人工智能专业硕士在读/Master's program in artificial intelligence'
+role: '人工智能专业硕士在读'
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: https://www.umu.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: '我喜欢在机器学习，深度学习，无人驾驶等领域探索学习/My research interests include Machine learning, deep learning, autopilot'
+bio: '我喜欢在机器学习，深度学习，无人驾驶等领域探索学习'
 
 # Interests to show in About widget
 interests:
-- '人工智能/Artificial Intelligence'
-- '计算机视觉/Computer vision'
-- ''
+- '人工智能'
+- '计算机视觉'
+- '羽毛球'
 
 # Education to show in About widget
 education:
